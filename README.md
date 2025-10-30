@@ -1,2 +1,2 @@
-# setap
-Este repositorio cuenta con el codigo y un readme expicativo sobre como hacer el setap del contenedor 
+# setup
+Este repositorio cuenta con el codigo y un readme expicativo sobre como hacer el setup del contenedor 
